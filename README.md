@@ -1,4 +1,4 @@
-# Anao-O-Sabio
+# Anão, O Sábio
 
 O curso definitivo de análises espaciais no R!
 
