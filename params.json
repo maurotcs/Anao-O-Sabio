@@ -1,6 +1,6 @@
 {
   "name": "Anão, o sabio",
   "tagline": "maps R spacial analysis",
-  "body": "# O curso definitivo de análises espaciais no R!\r\n\r\nPerguntas iniciais:\r\nComo correlacionar duas variáveis que variam no espaço levando em conta autocorrelação espacial?\r\nComo realizar análises espaciais levando em conta apenas determinados lugares; e.g., só o ambiente marinho?\r\n",
+  "body": "# O curso definitivo de análises espaciais no R!\r\n\r\nQuer saber a resposta para perguntas do tipo: \r\n\r\n* Como correlacionar duas variáveis que variam no espaço levando em conta autocorrelação espacial? \r\n* Como realizar análises espaciais levando em conta apenas determinados lugares; e.g., só o ambiente marinho?\r\n\r\nPergunte ao pequeno repositório de saber!!",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
